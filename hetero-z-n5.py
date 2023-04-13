@@ -17,6 +17,7 @@ mxene *= (nx,ny,1)
 commxe= mxene.get_center_of_mass(scaled=False)
 commnp= np.get_center_of_mass(scaled=False)
 
+#Rotating
 for i in range(0,150,10):
 
     #Creating a copy of the building blocks
