@@ -14,7 +14,7 @@ The following Python modules must be installed:
   1. `ASE`
 
 ## hetero-z-n5.py
-This program generates a set of POSCAR files of heterostructures, where each heterostructure has been created adsorbing the nanoparticle on the MXene slab and rotate from 0 to 140 degrees by tens. The position of the adsorption process is in the center of mass of the MXene slab
+This program generates a set of POSCAR files of heterostructures, where each heterostructure has been created adsorbing the nanoparticle on the MXene slab and rotate from 0 to 140 degrees by tens through the z` axis. The position of the adsorption process is in the center of mass of the MXene slab
 
 ### Instructions
 1.  Make sure that you put the names or paths of your input files in the `mxene` and `np` variables.
