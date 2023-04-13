@@ -1,7 +1,7 @@
 # Heterostructures (TiO<sub>2</sub>)<sub>n</sub>@MXene
 Programs to generate heterostructure POSCARs from two building blocks: TiO<sub>2</sub> nanoparticles and MXene slabs
 
-###NOTE: all input files must be in the same directory where the program is
+### NOTE: all input files must be in the same directory where the program is
 
 ## Needed Files
 The necessary input files are:
