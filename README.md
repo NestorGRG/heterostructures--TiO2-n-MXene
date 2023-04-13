@@ -1,13 +1,11 @@
 # Heterostructures (TiO<sub>2</sub>)<sub>n</sub>@MXene
 Programs to generate heterostructure POSCARs from two building blocks: TiO<sub>2</sub> nanoparticles and MXene slabs.
 
-### NOTE: all input files must be in the same directory where the program is
-
 ## Needed Files
 The necessary input files are:
   1.  `MXene_POSCAR`
   2.  `TiO2_POSCAR`
-With the variable `mxene` and `np`, put the names or paths of your input files.
+With the variables `mxene` and `np`, put the names or paths of your input files.
 
 ## Requirements  
 The following Python modules must be installed:
